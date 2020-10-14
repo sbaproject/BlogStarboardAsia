@@ -1,0 +1,10 @@
+[12-Oct-2020 05:40:28 UTC] Cơ sở dữ liệu của WordPress gặp lỗi Unknown column 'wp_' in 'field list' với truy vấn SELECT wp_
+[12-Oct-2020 08:25:53 UTC] SELECT * from wp_wpsmtp_logs ORDER BY `timestamp` desc LIMIT 0,10;
+[12-Oct-2020 10:26:10 UTC] SELECT * from wp_wpsmtp_logs ORDER BY `timestamp` desc LIMIT 0,10;
+[13-Oct-2020 04:05:31 UTC] SELECT * from wp_wpsmtp_logs ORDER BY `timestamp` desc LIMIT 0,10;
+[13-Oct-2020 04:18:04 UTC] SELECT * from wp_wpsmtp_logs ORDER BY `timestamp` desc LIMIT 0,10;
+[13-Oct-2020 04:49:03 UTC] SELECT * from wp_wpsmtp_logs ORDER BY `timestamp` desc LIMIT 0,10;
+[13-Oct-2020 06:54:00 UTC] SELECT * from wp_wpsmtp_logs ORDER BY `timestamp` desc LIMIT 0,10;
+[13-Oct-2020 20:07:22 UTC] PHP Warning:  sprintf(): Too few arguments in /home/starboar/blog.starboardasiavn.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[13-Oct-2020 20:07:26 UTC] PHP Warning:  sprintf(): Too few arguments in /home/starboar/blog.starboardasiavn.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[13-Oct-2020 20:07:28 UTC] PHP Warning:  sprintf(): Too few arguments in /home/starboar/blog.starboardasiavn.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
